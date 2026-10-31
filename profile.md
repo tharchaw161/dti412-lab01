@@ -25,3 +25,15 @@ I expect to learn more about software development, programming, database managem
 - **Technical skills I want to improve:** Programming, database management, and web development.
 - **Technologies I want to learn:** Artificial Intelligence, modern web technologies, and software development tools.
 - **Dream Job Position:** Software Developer
+
+# Semester Goals
+
+-   Learn Django
+-   Learn REST API Development
+-   Learn Cloud Deployment
+
+# Portfolio Projects
+
+1.  Student Management System
+2.  Internship Management System
+3.  Inventory Management System
